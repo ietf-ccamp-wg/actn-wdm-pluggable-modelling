@@ -2,16 +2,16 @@
 
 This is the working area for the IETF [CCAMP Working Group](https://datatracker.ietf.org/wg/ccamp/documents/) Internet-Draft, "Data Modelling and Gap Analysis of Optical Pluggables in Packet Over Optical Network".
 
-* [Editor's Copy](https://italobusi.github.io/actn-wdm-pluggable-modelling/#go.draft-ietf-ccamp-actn-wdm-pluggable-modelling.html)
+* [Editor's Copy](https://ietf-ccamp-wg.github.io/actn-wdm-pluggable-modelling/#go.draft-ietf-ccamp-actn-wdm-pluggable-modelling.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-ccamp-actn-wdm-pluggable-modelling)
 * [Working Group Draft](https://datatracker.ietf.org/doc/html/draft-ietf-ccamp-actn-wdm-pluggable-modelling)
-* [Compare Editor's Copy to Working Group Draft](https://italobusi.github.io/actn-wdm-pluggable-modelling/#go.draft-ietf-ccamp-actn-wdm-pluggable-modelling.diff)
+* [Compare Editor's Copy to Working Group Draft](https://ietf-ccamp-wg.github.io/actn-wdm-pluggable-modelling/#go.draft-ietf-ccamp-actn-wdm-pluggable-modelling.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/italobusi/actn-wdm-pluggable-modelling/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/ietf-ccamp-wg/actn-wdm-pluggable-modelling/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
